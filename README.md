@@ -1,4 +1,4 @@
-# 🐒 Monito Runner
+# 🐒 Mosh game
 
 Juego tipo "Chrome Dinosaur" pero con un monito que esquiva componentes electrónicos
 (LEDs, resistencias y capacitores). Proyecto para **Programación Orientada a Objetos**.
